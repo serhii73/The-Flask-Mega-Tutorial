@@ -1,0 +1,16 @@
+*.py[co]
+__pycache__
+
+# Translations compiled files
+*.mo
+
+data.sqlite
+
+# Production config
+local.cfg
+
+# Static
+static/libs/*
+
+# Other stuff here
+.idea/
